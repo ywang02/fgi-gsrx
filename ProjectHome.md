@@ -1,0 +1,1 @@
+GNSS software receiver developed by the Finnish Geodetic Institute
